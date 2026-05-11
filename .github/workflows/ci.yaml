@@ -18,7 +18,11 @@ jobs:
         uses: actions/setup-dotnet@v4
         with:
           dotnet-version: '8.0.x'
-
+          
+      - name: Add GitHub Packages source
+        run: |
+          dotnet nuget remove source github || true
+          dotnet nuget add source "https://nuget.pkg.github.com/Muenme/index.json" --name github --username Muenme --password ${{ secrets.TOKEN }} --store-password-in-clear-text
       - name: Restore dependencies
         run: dotnet restore
 
