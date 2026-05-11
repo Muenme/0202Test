@@ -51,9 +51,13 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "ClassLibrary": {
+              "target": "Package",
+              "version": "[1.0.0.1, )"
+            },
             "MSTest": {
               "target": "Package",
-              "version": "[4.0.2, )"
+              "version": "[4.2.2, )"
             }
           },
           "imports": [
