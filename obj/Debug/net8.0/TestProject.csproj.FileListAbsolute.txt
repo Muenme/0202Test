@@ -1,5 +1,4 @@
 C:\projeckt\0202\TestProject\bin\Debug\net8.0\testhost.dll
-C:\projeckt\0202\TestProject\bin\Debug\net8.0\Microsoft.TestPlatform.AdapterUtilities.dll
 C:\projeckt\0202\TestProject\bin\Debug\net8.0\testhost.exe
 C:\projeckt\0202\TestProject\bin\Debug\net8.0\ru\MSTestAdapter.PlatformServices.resources.dll
 C:\projeckt\0202\TestProject\bin\Debug\net8.0\MSTest.TestAdapter.dll
@@ -118,19 +117,6 @@ C:\projeckt\0202\TestProject\bin\Debug\net8.0\ru\Microsoft.Testing.Extensions.MS
 C:\projeckt\0202\TestProject\bin\Debug\net8.0\tr\Microsoft.Testing.Extensions.MSBuild.resources.dll
 C:\projeckt\0202\TestProject\bin\Debug\net8.0\zh-Hans\Microsoft.Testing.Extensions.MSBuild.resources.dll
 C:\projeckt\0202\TestProject\bin\Debug\net8.0\zh-Hant\Microsoft.Testing.Extensions.MSBuild.resources.dll
-C:\projeckt\0202\TestProject\bin\Debug\net8.0\cs\Microsoft.TestPlatform.AdapterUtilities.resources.dll
-C:\projeckt\0202\TestProject\bin\Debug\net8.0\de\Microsoft.TestPlatform.AdapterUtilities.resources.dll
-C:\projeckt\0202\TestProject\bin\Debug\net8.0\es\Microsoft.TestPlatform.AdapterUtilities.resources.dll
-C:\projeckt\0202\TestProject\bin\Debug\net8.0\fr\Microsoft.TestPlatform.AdapterUtilities.resources.dll
-C:\projeckt\0202\TestProject\bin\Debug\net8.0\it\Microsoft.TestPlatform.AdapterUtilities.resources.dll
-C:\projeckt\0202\TestProject\bin\Debug\net8.0\ja\Microsoft.TestPlatform.AdapterUtilities.resources.dll
-C:\projeckt\0202\TestProject\bin\Debug\net8.0\ko\Microsoft.TestPlatform.AdapterUtilities.resources.dll
-C:\projeckt\0202\TestProject\bin\Debug\net8.0\pl\Microsoft.TestPlatform.AdapterUtilities.resources.dll
-C:\projeckt\0202\TestProject\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.AdapterUtilities.resources.dll
-C:\projeckt\0202\TestProject\bin\Debug\net8.0\ru\Microsoft.TestPlatform.AdapterUtilities.resources.dll
-C:\projeckt\0202\TestProject\bin\Debug\net8.0\tr\Microsoft.TestPlatform.AdapterUtilities.resources.dll
-C:\projeckt\0202\TestProject\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.AdapterUtilities.resources.dll
-C:\projeckt\0202\TestProject\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.AdapterUtilities.resources.dll
 C:\projeckt\0202\TestProject\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
 C:\projeckt\0202\TestProject\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
 C:\projeckt\0202\TestProject\bin\Debug\net8.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll

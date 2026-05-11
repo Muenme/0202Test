@@ -14,6 +14,7 @@ namespace TestProject
         public void TestMethod1()
         {
             double n = lib.Addition(1, 2);
+            Assert.IsNotNull(n);
             Assert.AreEqual(n, 3);        
         }
     }
