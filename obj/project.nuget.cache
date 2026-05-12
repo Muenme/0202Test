@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "aHCq2P1pfd8=",
+  "dgSpecHash": "bvC1SLCGifE=",
   "success": true,
-  "projectFilePath": "C:\\projeckt\\0202\\TestProject\\TestProject.csproj",
+  "projectFilePath": "C:\\projeckt\\0202\\0202Test\\TestProject.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Mary\\.nuget\\packages\\castle.core\\3.2.0\\castle.core.3.2.0.nupkg.sha512",
+    "C:\\Users\\Mary\\.nuget\\packages\\classlibrary\\1.0.0\\classlibrary.1.0.0.nupkg.sha512",
     "C:\\Users\\Mary\\.nuget\\packages\\microsoft.applicationinsights\\2.23.0\\microsoft.applicationinsights.2.23.0.nupkg.sha512",
     "C:\\Users\\Mary\\.nuget\\packages\\microsoft.codecoverage\\18.3.0\\microsoft.codecoverage.18.3.0.nupkg.sha512",
     "C:\\Users\\Mary\\.nuget\\packages\\microsoft.diasymreader\\2.2.3\\microsoft.diasymreader.2.2.3.nupkg.sha512",
@@ -27,5 +29,30 @@
     "C:\\Users\\Mary\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.0\\system.diagnostics.diagnosticsource.5.0.0.nupkg.sha512",
     "C:\\Users\\Mary\\.nuget\\packages\\system.reflection.metadata\\8.0.0\\system.reflection.metadata.8.0.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "message": "Пакет \"Castle.Core 3.2.0\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\", а не целевой платформы проекта \"net8.0\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "projectPath": "C:\\projeckt\\0202\\0202Test\\TestProject.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\projeckt\\0202\\0202Test\\TestProject.csproj",
+      "libraryId": "Castle.Core",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "message": "Пакет \"ClassLibrary 1.0.0\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\", а не целевой платформы проекта \"net8.0\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "projectPath": "C:\\projeckt\\0202\\0202Test\\TestProject.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\projeckt\\0202\\0202Test\\TestProject.csproj",
+      "libraryId": "ClassLibrary",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
 }

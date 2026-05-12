@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\projeckt\\0202\\TestProject\\TestProject.csproj": {}
+    "C:\\projeckt\\0202\\0202Test\\TestProject.csproj": {}
   },
   "projects": {
-    "C:\\projeckt\\0202\\TestProject\\TestProject.csproj": {
+    "C:\\projeckt\\0202\\0202Test\\TestProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\projeckt\\0202\\TestProject\\TestProject.csproj",
+        "projectUniqueName": "C:\\projeckt\\0202\\0202Test\\TestProject.csproj",
         "projectName": "TestProject",
-        "projectPath": "C:\\projeckt\\0202\\TestProject\\TestProject.csproj",
+        "projectPath": "C:\\projeckt\\0202\\0202Test\\TestProject.csproj",
         "packagesPath": "C:\\Users\\Mary\\.nuget\\packages\\",
-        "outputPath": "C:\\projeckt\\0202\\TestProject\\obj\\",
+        "outputPath": "C:\\projeckt\\0202\\0202Test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -51,6 +51,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "ClassLibrary": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
             "MSTest": {
               "target": "Package",
               "version": "[4.2.2, )"
